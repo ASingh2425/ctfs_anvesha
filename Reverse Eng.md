@@ -7,3 +7,7 @@ we had just 40 coins and need 100 for getting the flag...so to find a way to get
 then i figured out somehow i can even buy stuff in negative quantity..lol i can sell items..
 so it was easy then..i sold items..increased my number of coins to more than 100 and then bought the flag..
 WORKED ON THIS THROUGH WEBSHELL OF PICO
+
+
+
+NO I DON'T UNDERSTAND REVERSE ENGINEERING
